@@ -1,2 +1,2 @@
-# classicmodels_SQL
+# classicmodels_MySQL
 MySQL_classicmodels
